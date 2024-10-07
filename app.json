@@ -1,8 +1,8 @@
 {
     "name": "Quiz Player App",
     "description": "Multiplayer quiz app built on Salesforce technology (player app)",
-    "repository": "https://github.com/pozil/quiz-player-app",
-    "logo": "https://github.com/pozil/quiz-player-app/raw/master/src/client/assets/logo.png",
+    "repository": "https://github.com/forcedotcom/quiz-player-app",
+    "logo": "https://github.com/forcedotcom/quiz-player-app/raw/master/src/client/assets/logo.png",
     "keywords": ["lightning", "salesforce", "web-components", "open source"],
     "env": {
         "SF_LOGIN_URL": {
