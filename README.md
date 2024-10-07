@@ -1,13 +1,13 @@
 # Multiplayer quiz app built on Salesforce technology (player app)
 
-ℹ️ Please refer to the [quiz host app](https://github.com/developerforce/quiz-host-app) for documentation.
+ℹ️ Please refer to the [quiz host app](https://github.com/forcedotcom/quiz-host-app) for documentation.
 
 ## Heroku deploy (recommended)
 
 Click on this button and follow the instructions to deploy the app:
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/developerforce/quiz-player-app/edit/master">
+  <a href="https://heroku.com/deploy?template=https://github.com/forcedotcom/quiz-player-app">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
   </a>
 <p>
