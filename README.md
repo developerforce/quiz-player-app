@@ -7,7 +7,7 @@
 Click on this button and follow the instructions to deploy the app:
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/forcedotcom/quiz-player-app">
+  <a href="https://www.heroku.com/deploy?template=https://github.com/forcedotcom/quiz-player-app">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
   </a>
 <p>
